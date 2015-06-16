@@ -1,0 +1,2 @@
+# rajju
+this is repository
