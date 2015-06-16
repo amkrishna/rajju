@@ -1,7 +1,9 @@
 muralikrishna
-<<<<<<< HEAD
+
 rahdakrishna
+
 lalithakrishna
-=======
+
 rajitha
->>>>>>> branch1
+
+priyankakrishna
